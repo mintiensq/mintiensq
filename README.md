@@ -9,3 +9,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mintiensq/mintiensq/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/mintiensq/mintiensq/output/github-snake.svg" />
 </picture>
+
+<img alt="github-contribution-grid-snake-ocean" src="https://raw.githubusercontent.com/mintiensq/mintiensq/output/ocean.gif" />
